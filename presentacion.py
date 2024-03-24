@@ -1,4 +1,4 @@
-# Presentación en Python para Visual Studio
+# Presentación en Python 
 
 def presentacion():
     nombre = "gisela"
