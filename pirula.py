@@ -1,3 +1,5 @@
 print ("este es un archivo nuevo")
 print ("agrego una linea nueva")
 print ("agrego otra linea mas")
+print ("practicando el programa git")
+print ("seguimos jugando con git")
