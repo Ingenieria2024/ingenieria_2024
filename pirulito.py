@@ -8,3 +8,7 @@ print ("la familia pirulo")
 print ("destronaron a la familia Ingalls")
 print ("the pirulos")
 print ("fuaa el diego")
+
+archivo_nuevo = input("Cómo se hace para subir un nuevo archivo?: ")
+print()
+print ("# gracias! #")
