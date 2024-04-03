@@ -1,24 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 print ("Hola, este es el primer archivo del proyecto")
 agregado = input("Ingrese su nombre: ")
 print ("sarasa")
@@ -29,3 +9,4 @@ print ("que llegue semana santa")
 print ("me estoy volviendo loca")
 
 print ("hola")
+print ("buenas")
