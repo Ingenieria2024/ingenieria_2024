@@ -23,3 +23,6 @@ while True:
               break
     else:
         print("opcion invalida")
+===============
+print ("hola")
+print ("prueba")
